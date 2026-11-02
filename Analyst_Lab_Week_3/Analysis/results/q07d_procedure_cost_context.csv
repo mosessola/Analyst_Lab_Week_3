@@ -1,0 +1,6 @@
+metric,value
+distinct procedure codes,157.0
+procedures at exactly 431,30988.0
+share at exactly 431,65.0
+codes performed fewer than 30 times,66.0
+codes performed once,11.0

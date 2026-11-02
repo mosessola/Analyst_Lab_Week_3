@@ -1,0 +1,11 @@
+CODE,procedure,times_performed,pct_of_all_procedures,avg_base_cost,min_cost,max_cost,total_cost
+180325003,Electrical cardioversion,1383,2.9,25903.11,11672,44532,35824002
+433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,57,0.12,20228.04,11346,34733,1152998
+73761001,Colonoscopy,424,0.89,11841.99,5441,19693,5021003
+180256009,Subcutaneous immunotherapy,54,0.11,11835.5,6029,19620,639117
+703423002,Combined chemotherapy and radiation therapy (procedure),444,0.93,11796.39,5435,19864,5237596
+228557008,Cognitive and behavioral therapy (regime/therapy),136,0.29,10388.08,5050,16725,1412779
+274031008,Rectal polypectomy,61,0.13,10231.56,5374,15886,624125
+714812005,Induced termination of pregnancy,32,0.07,9641.0,5696,14449,308512
+312681000,Bone density scan (procedure),198,0.42,9602.86,4279,15663,1901367
+68254000,Removal of intrauterine device,38,0.08,9498.61,4583,15210,360947

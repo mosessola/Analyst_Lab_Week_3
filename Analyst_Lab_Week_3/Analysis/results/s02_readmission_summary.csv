@@ -1,0 +1,3 @@
+definition,index_encounters,readmission_events,events_pct_of_index,distinct_patients,patients_pct_of_974
+A. ANY encounter starting within 30 days of the end of the patient's previous encounter (literal SQL wording),27891,16786,60.2,770,79.1
+B. INPATIENT admission starting within 30 days of the end of the patient's previous inpatient stay,1135,409,36.0,29,3.0

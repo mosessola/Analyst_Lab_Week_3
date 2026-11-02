@@ -1,0 +1,7 @@
+ENCOUNTERCLASS,Exactly 24h,Over 24h,Under 24h
+ambulatory,0,5,12532
+emergency,0,5,2317
+inpatient,1077,58,0
+outpatient,0,7,6293
+urgentcare,0,0,3666
+wellness,0,0,1931

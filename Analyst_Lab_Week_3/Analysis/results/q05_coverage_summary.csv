@@ -1,0 +1,11 @@
+metric,value
+total_claim_cost,101514375.52
+total_payer_coverage,31097506.99
+coverage_ratio_pct,30.63
+uncovered_amount,70416868.53
+encounters_zero_coverage,13586.0
+pct_encounters_zero_coverage,48.71
+  of which NO_INSURANCE,8807.0
+"  of which insured payer, zero coverage",4779.0
+  of which zero-cost encounters,89.0
+zero-coverage with claim cost > 0,13497.0

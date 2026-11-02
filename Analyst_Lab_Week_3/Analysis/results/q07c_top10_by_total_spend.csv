@@ -1,0 +1,11 @@
+CODE,procedure,times_performed,pct_of_all_procedures,avg_base_cost,min_cost,max_cost,total_cost
+180325003,Electrical cardioversion,1383,2.9,25903.11,11672,44532,35824002
+225158009,Auscultation of the fetal heart,1065,2.23,5312.51,2292,8749,5657822
+274804006,Evaluation of uterine fundal height,1065,2.23,5287.59,2392,8843,5631281
+703423002,Combined chemotherapy and radiation therapy (procedure),444,0.93,11796.39,5435,19864,5237596
+73761001,Colonoscopy,424,0.89,11841.99,5441,19693,5021003
+18286008,Catheter ablation of tissue of heart,365,0.77,9331.5,4222,15697,3405999
+265764009,Renal dialysis (procedure),2746,5.76,1004.09,453,1695,2757221
+710824005,Assessment of health and social care needs (procedure),4596,9.64,431.0,431,431,1980876
+312681000,Bone density scan (procedure),198,0.42,9602.86,4279,15663,1901367
+385763009,Hospice care (regime/therapy),4098,8.59,431.0,431,431,1766238

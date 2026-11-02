@@ -1,0 +1,11 @@
+CODE,procedure,times_performed,pct_of_all_procedures,avg_base_cost,min_cost,max_cost,total_cost
+710824005,Assessment of health and social care needs (procedure),4596,9.64,431.0,431,431,1980876
+385763009,Hospice care (regime/therapy),4098,8.59,431.0,431,431,1766238
+171207006,Depression screening (procedure),3804,7.97,431.0,431,431,1639524
+454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),3614,7.58,431.0,431,431,1557634
+428211000124100,Assessment of substance use (procedure),2906,6.09,431.0,431,431,1252486
+265764009,Renal dialysis (procedure),2746,5.76,1004.09,453,1695,2757221
+762993000,Assessment using Morse Fall Scale (procedure),2422,5.08,431.0,431,431,1043882
+710841007,Assessment of anxiety (procedure),2288,4.8,431.0,431,431,986128
+430193006,Medication Reconciliation (procedure),2284,4.79,509.12,222,849,1162840
+713106006,Screening for drug abuse (procedure),1484,3.11,431.0,431,431,639604

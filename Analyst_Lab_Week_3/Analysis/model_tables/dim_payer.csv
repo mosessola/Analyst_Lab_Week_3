@@ -1,0 +1,11 @@
+Id,NAME,STATE_HEADQUARTERED
+b3221cfc-24fb-339e-823d-bc4136cbc4ed,Dual Eligible,MD
+7caa7254-5050-3b5e-9eae-bd5ea30e809c,Medicare,MD
+7c4411ce-02f1-39b5-b9ec-dfbea9ad3c1a,Medicaid,MD
+d47b3510-2895-3b70-9897-342d681c769d,Humana,KY
+6e2f1a2d-27bd-3701-8d08-dae202c58632,Blue Cross Blue Shield,IL
+5059a55e-5d6e-34d1-b6cb-d83d16e57bcf,UnitedHealthcare,MN
+4d71f845-a6a9-3c39-b242-14d25ef86a8d,Aetna,CT
+047f6ec3-6215-35eb-9608-f9dda363a44c,Cigna Health,CT
+42c4fca7-f8a9-3cd1-982a-dd9751bf3e2a,Anthem,IN
+b1c428d6-4f07-31e0-90f0-68ffa6ff8c76,NO_INSURANCE,

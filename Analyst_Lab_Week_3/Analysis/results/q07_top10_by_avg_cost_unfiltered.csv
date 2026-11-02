@@ -1,0 +1,11 @@
+CODE,procedure,times_performed,pct_of_all_procedures,avg_base_cost,min_cost,max_cost,total_cost
+305351004,Admit to ICU (procedure),5,0.01,206260.4,112627,289531,1031302
+232717009,Coronary artery bypass grafting,9,0.02,47085.89,28376,67168,423773
+392021009,Lumpectomy of breast (procedure),5,0.01,29353.0,27991,31539,146765
+302497006,Hemodialysis (procedure),27,0.06,29299.56,20167,37213,791088
+447365002,Insertion of biventricular implantable cardioverter defibrillator,4,0.01,27201.0,19087,38711,108804
+180325003,Electrical cardioversion,1383,2.9,25903.11,11672,44532,35824002
+43075005,Partial resection of colon,7,0.01,25229.29,16049,38749,176605
+432231006,Fine needle aspiration biopsy of lung (procedure),1,0.0,23141.0,23141,23141,23141
+433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,57,0.12,20228.04,11346,34733,1152998
+415070008,Percutaneous coronary intervention,9,0.02,19728.0,10194,32927,177552
